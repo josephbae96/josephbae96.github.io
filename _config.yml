@@ -9,6 +9,7 @@ relative_permalinks: false
 title:               foo
 #tagline:             'foo's website
 description:         Foo's blog...
+url: https://josephbae.me
 baseurl: "/"
 markdown: kramdown
 paginate: 5
