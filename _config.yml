@@ -1,14 +1,14 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+
 
 # Setup
 title:               Joseph Bae
 tagline:             'A Jekyll theme'
 description:         ''
 url:                 http://josephbae.me
-baseurl:             "/"
+baseurl:             ""
 paginate:            5
 
 # About/contact
