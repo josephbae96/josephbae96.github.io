@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Joseph Bae
 tagline:             'A Jekyll theme'
 description:         ''
-url:                 josephbae.me
+url:                 http://josephbae.me
 baseurl:             ""
 paginate:            5
 
