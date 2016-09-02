@@ -40,7 +40,7 @@ Twitter stream will show up here if `twitter_widget_id` is present is `_config.y
   {% for post in site.categories.featured limit:2 %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ site.url }}{{ post.url }}">
+      <a href="{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
