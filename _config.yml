@@ -5,7 +5,7 @@ permalink:           /:title
 
 # Setup
 title:               Joseph Bae
-tagline:             'Computer engineering student at The University of Texas at Austin'
+tagline:             'Computer Engineering Student @ The University of Texas at Austin'
 description:         ''
 url:                 "http://josephbae.me"
 baseurl:             ""
@@ -13,7 +13,7 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Joseph Bae
+  url:               https://twitter.com/joebaebae
+  email:             josephbae@utexas.edu
 
