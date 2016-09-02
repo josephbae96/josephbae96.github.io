@@ -7,8 +7,8 @@ permalink:           /:title
 title:               Joseph Bae
 tagline:             'Computer engineering student at The University of Texas at Austin'
 description:         ''
-url:                 http://josephbae.me
-baseurl:             "/"
+url:                 "http://josephbae.me"
+baseurl:             ""
 paginate:            5
 
 # About/contact
