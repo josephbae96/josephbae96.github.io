@@ -8,7 +8,7 @@ title:               Joseph Bae
 tagline:             'A Jekyll theme'
 description:         ''
 url:                 http://josephbae.me
-baseurl:             ""
+baseurl:             "/"
 paginate:            5
 
 # About/contact
@@ -17,5 +17,3 @@ author:
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
 
-# Custom vars
-version:             1.0.0
