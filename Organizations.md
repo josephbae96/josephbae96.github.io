@@ -3,7 +3,7 @@ layout: page
 title: Organizations
 ---
 
-###IEEE
+### IEEE
 
 
 ### Camp Texas 2016

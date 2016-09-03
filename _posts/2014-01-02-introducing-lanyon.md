@@ -3,10 +3,10 @@ layout: post
 title: Contact Information
 ---
 
-###Contact Information
+### Contact Information
 If you have any questions or would like to contact me, please email me at josephbae@utexas.edu. I will respond as quickly as I can.
 
-###Social Media
+### Social Media
 If you would like to follow me on social media, here are the links.
 
 Thanks!
