@@ -4,7 +4,7 @@ title: About Me
 ---
 
 <p class="message">
-  Hello, thank you for taking the time for visiting my website.
+  Hello, thank you for taking the time to visit my website. If there's anything else I can help you with, please feel free to contact me!
 </p>
 
 My name is Joseph Bae and I'm currently a third year computer engineering 
