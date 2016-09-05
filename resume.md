@@ -4,7 +4,7 @@ title: Resume
 ---
 
 <p class="message">
-  Put link for PDF download of resume.
+  <a href="../josephbae96.github.io/Files/Joseph%20Bae%20Resume%20Fall%202016.pdf">Download for Mobile.</a>
   
 </p>
 
