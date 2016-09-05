@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<img src="../josephbae96.github.io/Files/UT%2050-47.jpg" alt="UTvsND 2016 50-47" style="width:960px;height:960px;">
+<img src="../josephbae96.github.io/Files/UT%2050-47.jpg" alt="UTvsND 2016 50-47" style="width:867px;height:867px;">
 
 
 <p class="message">
