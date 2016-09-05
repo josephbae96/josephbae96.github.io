@@ -8,4 +8,4 @@ title: Resume
   
 </p>
 
-<iframe src="../josephbae96.github.io/Files/Joseph%20Bae%20Resume%20Fall%202016.pdf" 
+<iframe src="../josephbae96.github.io/Files/Joseph%20Bae%20Resume%20Fall%202016.pdf"width="100%"></iframe> 
