@@ -8,4 +8,4 @@ title: Resume
   
 </p>
 
-- iFrame for resume
+<iframe src="../josephbae96.github.io/Files/Joseph%20Bae%20Resume%20Fall%202016.pdf" 
