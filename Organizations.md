@@ -4,7 +4,8 @@ title: Organizations
 ---
 
 ### IEEE
-The Institute of Electrical and Electronics Engineers
+The Institute of Electrical and Electronics Engineers is a professional organization for electrical engineers and helps organize events for students in the 
+Electrical and Computer Engineering department to network and socialize with many companies.
 
 ### Camp Texas 2016
 
@@ -12,8 +13,10 @@ The Institute of Electrical and Electronics Engineers
 
 Camp Texas is an introductory camp for incoming freshmen and transfer students at the 
 University of Texas at Austin in order to help encourage companionship and community
-before their arrival into the Forty Acres.
-
+before their arrival into the Forty Acres. As a counselor, I have helped encourage these incoming freshmen
+to embrace the ideals and views that UT holds while creating friendships that will  (hopefully) last throughout their time
+here at the Forty Acres. Not only that, I have provided advice and insight to the campus they will be arriving at, and
+offer my support and guidance throughout their first year.
 
 
 ## Volunteer Work
