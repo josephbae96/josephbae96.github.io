@@ -9,7 +9,7 @@ Electrical and Computer Engineering department to network and socialize with man
 
 ### Camp Texas 2016
 
-<img src="../josephbae96.github.io/Files/CT2016%20Session%206.jpg" alt="Camp Texas 2016 Session 6" style="width:920px;height:613px;">
+<img src="../josephbae96.github.io/Files/CT2016%20Session%206.jpg" alt="Camp Texas 2016 Session 6" style="width:720px;height:480px;">
 
 Camp Texas is an introductory camp for incoming freshmen and transfer students at the 
 University of Texas at Austin in order to help encourage companionship and community
