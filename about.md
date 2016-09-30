@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<img src="/Files/UT%2050-47.jpg" alt="UTvsND 2016 50-47" style="width:75%;">
+<img src="/Files/UT%2050-47.jpg" alt="UTvsND 2016 50-47" style="width:75%;text-align:center;margin: auto;">
 
 
 <p class="message">
