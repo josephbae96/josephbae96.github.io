@@ -4,7 +4,7 @@ title: Resume
 ---
 
 <p class="message">
-  <a href="/files/Joseph%20Bae%20Resume%20Fall%202016.pdf">Download for Mobile.</a>
+  <a href="/files/Joseph_Bae_Resume_Fall_2016.pdf">Download for Mobile.</a>
 </p>
 
-<iframe src="/files/Joseph%20Bae%20Resume%20Fall%202016.pdf" width="800" height="900"></iframe> 
+<iframe src="/files/Joseph_Bae_Resume_Fall_2016.pdf" width="800" height="700"></iframe> 
