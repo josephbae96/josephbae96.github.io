@@ -7,4 +7,4 @@ title: Resume
   <a href="/files/Joseph_Bae_Resume_Fall_2016.pdf">Download for Mobile.</a>
 </p>
 
-<iframe src="/files/Joseph_Bae_Resume_Fall_2016.pdf" width="800" height="700"></iframe> 
+<iframe src="/files/Joseph_Bae_Resume_Fall_2016.pdf" width="800" height="500"></iframe> 
