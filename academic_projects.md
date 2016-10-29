@@ -5,13 +5,15 @@ title: Academic Projects
 
 ### EE 316: Digital Logic Design
 
-EE 316: Digital Logic Design Lab 5.1
+EE 316: Digital Logic Design Lab 5 Part 2
+
+EE 316: Digital Logic Design Lab 5 Part 1
 
 EE 316: Digital Logic Design Lab 4
 
-EE 316: Digital Logic Design Lab 3.2
+EE 316: Digital Logic Design Lab 3 Part 2
 
-EE 316: Digital Logic Design Lab 3.1
+EE 316: Digital Logic Design Lab 3 Part 1
 
 EE 316: Digital Logic Design Lab 2
 
