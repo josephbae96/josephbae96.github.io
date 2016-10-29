@@ -1,0 +1,30 @@
+---
+layout: page
+title: Academic Projects
+---
+
+### EE 316: Digital Logic Design
+
+EE 316: Digital Logic Design Lab 5.1
+
+EE 316: Digital Logic Design Lab 4
+
+EE 316: Digital Logic Design Lab 3.2
+
+EE 316: Digital Logic Design Lab 3.1
+
+EE 316: Digital Logic Design Lab 2
+
+EE 316: Digital Logic Design Lab 1
+
+### EE 312: Software Design and Implementation I
+
+EE 312: Software Design and Implementation Assignment 6
+
+EE 312: Software Design and Implementation Assignment 5
+
+EE 312: Software Design and Implementation Assignment 3
+
+EE 312: Software Design and Implementation Assignment 2
+
+EE 312: Software Design and Implementation Assignment 1
