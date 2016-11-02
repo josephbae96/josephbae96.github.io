@@ -7,15 +7,16 @@ title: Academic Projects
 
 EE 316: Digital Logic Design Lab 5.1
 
-EE 316: Digital Logic Design Lab 4
+<a href="http://josephbae.me/ee316_lab4">EE 316: Digital Logic Design Lab 4</a>
 
-EE 316: Digital Logic Design Lab 3.2
 
-EE 316: Digital Logic Design Lab 3.1
+<a href="http://josephbae.me/ee316_lab3_part2">EE 316: Digital Logic Design Lab 3 Part 2</a>
 
-EE 316: Digital Logic Design Lab 2
+<a href="http://josephbae.me/ee316_lab3_part1">EE 316: Digital Logic Design Lab 3 Part 1</a>
 
-EE 316: Digital Logic Design Lab 1
+<a href="http://josephbae.me/ee316_lab2">EE 316: Digital Logic Design Lab 2</a>
+
+<a href="http://josephbae.me/ee316_lab1">EE 316: Digital Logic Design Lab 1</a>
 
 ### EE 312: Software Design and Implementation I
 
