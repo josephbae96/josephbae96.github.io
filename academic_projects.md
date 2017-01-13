@@ -5,6 +5,8 @@ title: Academic Projects
 
 ### EE 316: Digital Logic Design
 
+EE 316: Digital Logic Design Lab 7
+
 EE 316: Digital Logic Design Lab 6
 
 <a href="http://josephbae.me/ee316_lab5">EE 316: Digital Logic Design Lab 5</a>
