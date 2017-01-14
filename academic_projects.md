@@ -11,9 +11,7 @@ EE 316: Digital Logic Design Lab 7
 
 <a href="http://josephbae.me/ee316_lab5">EE 316: Digital Logic Design Lab 5</a>
 
-http://josephbae.me/ee316_lab5
 <a href="http://josephbae.me/ee316_lab4">EE 316: Digital Logic Design Lab 4</a>
-
 
 <a href="http://josephbae.me/ee316_lab3_part2">EE 316: Digital Logic Design Lab 3 Part 2</a>
 
