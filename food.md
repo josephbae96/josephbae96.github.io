@@ -4,16 +4,16 @@ title: Food
 ---
 
 
-##Texas
+## Texas
 
-<img src="/files/Austin.jpg" alt="Austin" style="width:75%;text-align:center;margin: auto;">
+<img src="/files/Austin2.jpg" alt="Austin" style="width:75%;text-align:center;margin: auto;">
 
-###Austin
+### Austin
 
-###Corpus Christi
+### Corpus Christi
 
-###Fredricksburg
+### Fredricksburg
 
-##New York
+## New York
 
-###New York City
+### New York City
