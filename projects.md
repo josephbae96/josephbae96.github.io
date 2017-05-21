@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic Projects
+title: Projects
 ---
 
 ### EE 316: Digital Logic Design
