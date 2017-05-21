@@ -16,11 +16,16 @@ title: Food Adventures
 
 <a href="http://josephbae.me/OddDuck">Odd Duck</a>
 
+<a href="http://josephbae.me/DeSano">DeSano</a>
 
+<a href="http://josephbae.me/PizzaPress">Pizza Press</a>
 
 ### Corpus Christi
 
+### Dallas
+<img src="/files/Dallas.jpg" alt="Dallas" style="width:75%;text-align:center;margin: auto;">
 
+<a href="http://josephbae.me/NeighborhoodServices">Neighborhood Services</a>
 
 ### Fredricksburg
 
@@ -34,3 +39,5 @@ title: Food Adventures
 <a href="http://josephbae.me/Cascarino's">Cascarino's Pizzeria</a>
 
 <a href="http://josephbae.me/SnowDays">Snow Days</a>
+
+<a href="http://josephbae.me/Dough">Dough</a>
