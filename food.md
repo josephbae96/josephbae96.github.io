@@ -24,6 +24,7 @@ title: Food Adventures
 
 ### Fredricksburg
 
+<a href="http://josephbae.me/Altdorf">Altdorf Biergarten</a>
 
 
 ## New York
@@ -32,3 +33,4 @@ title: Food Adventures
 
 <a href="http://josephbae.me/Cascarino's">Cascarino's Pizzeria</a>
 
+<a href="http://josephbae.me/SnowDays">Snow Days</a>
