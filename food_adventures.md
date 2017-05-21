@@ -35,6 +35,7 @@ title: Food Adventures
 ## New York
 
 ### New York City
+<img src="/files/NewYorkCity2.jpg" alt="New York City" style="width:75%;text-align:center;margin: auto;">
 
 <a href="http://josephbae.me/Cascarino's">Cascarino's Pizzeria</a>
 
