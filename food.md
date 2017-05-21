@@ -26,4 +26,4 @@ title: Food Adventures
 
 ### New York City
 
-<a href="http://josephbae.me/ee316_lab1">Cascarino's Pizzeria</a>
+<a href="http://josephbae.me/Cascarino's">Cascarino's Pizzeria</a>
