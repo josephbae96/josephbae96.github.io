@@ -3,11 +3,11 @@ layout: page
 title: Organizations
 ---
 
-### Theta Tau
+### Theta Tau Professional Engineering Fraternity
 
 <img src="/files/ThetaTau.jpg" alt="Theta Tau"  style="width:100%;text-align:center;margin: auto;">
 
-A professional engineering fraternity which purpose is to develop and maintain a high standard of professional interest among its members and to unite them in a strong bond of fraternal fellowship
+A professional engineering fraternity which purpose is to develop and maintain a high standard of professional interest among its members and to unite them in a strong bond of fraternal fellowship.
 
 ### Camp Texas
 
@@ -32,6 +32,7 @@ campus, the city, and the nation.
 ### Filipino Student Association
 
 
+FSA is a social organization aiming to promote the culture of Filipinos through volunteer work, sports, and dancing.
 
 ### IEEE
 The Institute of Electrical and Electronics Engineers is a professional organization for electrical engineers and helps organize events for students in the 
