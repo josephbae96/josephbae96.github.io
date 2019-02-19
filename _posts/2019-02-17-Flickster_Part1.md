@@ -13,7 +13,9 @@ Since this is only part 1 of a 2 part application, I'm more focused on
 making sure the application has all the proper components before 
 continuing and working on part 2. With that said, here's some potential
 changes I could make to the part one of this application which includes:
+
 • Making a Night mode
+
 • Create a more aesthetically pleasing UI
  
  Here's a walkthrough of the application! I'll update it if I get around

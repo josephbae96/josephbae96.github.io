@@ -11,9 +11,13 @@ sure that the player will only exclusively play the movie trailer.
 
 Due to time commitments, I will try and work on this app a little more in 
 the near future but some potential updates to the app include:
+
 • showing the movie poster if a trailer doesn't exist
+
 • fixing an error where the app crashes when in horizontal mode
+
 • including a night mode
+
 • changing the UI to be more aethestically pleasing
  
  
