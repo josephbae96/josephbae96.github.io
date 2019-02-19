@@ -3,6 +3,14 @@ layout: page
 title: Projects
 ---
 
+### Android
+
+Week 2: Flickster Part 2
+
+Week 1: Flickster Part 1
+
+Week 0: Simple ToDo
+
 ### EE 316: Digital Logic Design
 
 EE 316: Digital Logic Design Lab 7
