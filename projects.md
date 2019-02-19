@@ -5,11 +5,11 @@ title: Projects
 
 ### Android
 
-Week 2: Flickster Part 2
+<a href="http://josephbae.me/Flickster_Part2">Week 2: Flickster Part 2</a>
 
-Week 1: Flickster Part 1
+<a href="http://josephbae.me/Flickster_Part1">Week 1: Flickster Part 1</a>
 
-Week 0: Simple ToDo
+<a href="http://josephbae.me/SimpleToDo">Week 0: Simple ToDo</a>
 
 ### EE 316: Digital Logic Design
 
