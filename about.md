@@ -11,8 +11,8 @@ title: About Me
     anything else I can help you with, please feel free to contact me!
 </p>
 
-My name is Joseph Bae and I am currently a recent graduate from The
-University of Texas at Austin with a Bachelor's of Science degree in
+My name is Joseph Bae and I am a junior Software Engineer. I graduated
+from The University of Texas at Austin with a Bachelor's of Science in
 computer engineering with my core focus being on Software Design and 
 Implementation.
 
