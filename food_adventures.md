@@ -2,10 +2,10 @@
 layout: page
 title: Food Adventures
 ---
-
+Welcome and check out these wonderful restaraunts and meals I've eaten.
 
 ## Texas
-
+The following blog posts are from my home state of Texas.
 
 ### Austin
 <img src="/files/Austin2.jpg" alt="Austin" style="width:75%;text-align:center;margin: auto;">
