@@ -3,6 +3,23 @@ layout: page
 title: Projects
 ---
 
+This page is the list of projects I am/have worked on.
+
+
+### Modern React with Redux 2020 Update
+
+<a href="https://github.com/josephbae96/Udemy-React">Github Link</a>
+
+<a href="https://github.com/josephbae96/Udemy-React/tree/master/videos">Videos</a>
+
+<a href="https://github.com/josephbae96/Udemy-React/tree/master/pics">Pics</a>
+
+<a href="https://github.com/josephbae96/Udemy-React/tree/master/seasons">Seasons</a>
+
+<a href="https://github.com/josephbae96/Udemy-React/tree/master/components">Components</a>
+
+<a href="https://github.com/josephbae96/Udemy-React/tree/master/jsx">JSX</a>
+
 ### Android
 
 <a href="http://josephbae.me/Flickster_Part2">Week 2: Flickster Part 2</a>

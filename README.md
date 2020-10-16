@@ -1,3 +1,7 @@
+This website has been created by Joseph Bae and is for all intents and purposes used as personal portfolio website.
+
+This website has also been created with Lanyon.
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
