@@ -3,21 +3,42 @@ layout: page
 title: Projects
 ---
 
-This page is the list of projects I am/have worked on.
+My recent projects I have been working on:
 
+### DevConnector
+
+A (MERN) MongoDB and Express.js backend built with Node.js modules and a React.js frontend
+social media website to connect developers.
+
+<a href="https://github.com/josephbae96/DevConnector">DevConnector</a>
+
+### iOS 13 and Swift 5
+
+An iOS Udemy course taught by Dr. Angela Yu and the AppBrewery to learn programming and
+fundamentals of creating iOS applications in Swift.
+
+<a href="https://github.com/josephbae96/iOS_13_and_Swift_5">iOS 13 and Swift 5 </a>
 
 ### Modern React with Redux 2020 Update
 
-<a href="https://github.com/josephbae96/Udemy-React">Github Link</a>
+A Udemy course taught by Stephen Grider in order to enhance and solidify my React
+foundations.
 
+<a href="https://github.com/josephbae96/Udemy-React">Udemy-React</a>
+
+Videos
 <a href="https://github.com/josephbae96/Udemy-React/tree/master/videos">Videos</a>
 
+Pics
 <a href="https://github.com/josephbae96/Udemy-React/tree/master/pics">Pics</a>
 
+Seasons
 <a href="https://github.com/josephbae96/Udemy-React/tree/master/seasons">Seasons</a>
 
+Components
 <a href="https://github.com/josephbae96/Udemy-React/tree/master/components">Components</a>
 
+JSX
 <a href="https://github.com/josephbae96/Udemy-React/tree/master/jsx">JSX</a>
 
 ### Android
@@ -27,35 +48,3 @@ This page is the list of projects I am/have worked on.
 <a href="http://josephbae.me/Flickster_Part1">Week 1: Flickster Part 1</a>
 
 <a href="http://josephbae.me/SimpleToDo">Week 0: Simple ToDo</a>
-
-### EE 316: Digital Logic Design
-
-EE 316: Digital Logic Design Lab 7
-
-<a href="http://josephbae.me/ee316_lab6">EE 316: Digital Logic Design Lab 6</a>
-
-<a href="http://josephbae.me/ee316_lab5">EE 316: Digital Logic Design Lab 5</a>
-
-<a href="http://josephbae.me/ee316_lab4">EE 316: Digital Logic Design Lab 4</a>
-
-<a href="http://josephbae.me/ee316_lab3_part2">EE 316: Digital Logic Design Lab 3 Part 2</a>
-
-<a href="http://josephbae.me/ee316_lab3_part1">EE 316: Digital Logic Design Lab 3 Part 1</a>
-
-<a href="http://josephbae.me/ee316_lab2">EE 316: Digital Logic Design Lab 2</a>
-
-<a href="http://josephbae.me/ee316_lab1">EE 316: Digital Logic Design Lab 1</a>
-
-### EE 312: Software Design and Implementation I
-
-EE 312: Software Design and Implementation Assignment 7
-
-EE 312: Software Design and Implementation Assignment 6
-
-EE 312: Software Design and Implementation Assignment 5
-
-EE 312: Software Design and Implementation Assignment 3
-
-EE 312: Software Design and Implementation Assignment 2
-
-EE 312: Software Design and Implementation Assignment 1
