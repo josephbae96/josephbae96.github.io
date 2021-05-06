@@ -1,7 +1,6 @@
 # Released under MIT License
 
-Copyright (c) 2020 Joseph Bae.
-
+Copyright (c) 2021 Joseph Bae.
 
 Copyright (c) 2014 Mark Otto.
 

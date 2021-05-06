@@ -3,8 +3,6 @@ layout: page
 title: Interests
 ---
 
-# Interests
-
 As man of few talents, I try to enjoy life to the fullest whenever I can.
 
 ## Travelling
