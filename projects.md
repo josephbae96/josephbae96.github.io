@@ -46,7 +46,7 @@ foundations.
 
 <a href="https://github.com/josephbae96/Udemy-React">
     <img
-    src="github.svg"
+    src="./files/icons.github.svg"
     alt="Github link to Modern React with Redux 2020 Update"
     height="50"
     width="50" />
