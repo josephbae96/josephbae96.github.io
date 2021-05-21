@@ -5,7 +5,7 @@ title: Gourdough's Public House
 
 Austin, Texas
 
-<img src="/food_pics/Gourdough's__Public_House_austin_donuts_Ron_Burgundy.jpg" alt="Gourdough's Public House" style="width:75%;text-align:center;margin: auto;">
+<img src="/pictures/food/Gourdough's__Public_House_austin_donuts_Ron_Burgundy.jpg" alt="Gourdough's Public House" style="width:75%;text-align:center;margin: auto;">
 
 Pictured from left to right: Big Baller, Ron Burgundy (bottom middle), Nacho Libre (top middle)
 

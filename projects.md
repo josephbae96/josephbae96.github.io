@@ -3,19 +3,15 @@ layout: page
 title: Projects
 ---
 
-My recent projects I have been working on:
+Some of my recent projects I have been working on.
 
 ## DevConnector
 
 A (MERN) MongoDB and Express.js backend built with Node.js modules and a React.js frontend
-social media website to connect developers.
+social media website to connect developers
 
 <a href="https://github.com/josephbae96/DevConnector">
-    <img
-    src="github.svg"
-    alt="Github link to DevConnector"
-    height="50"
-    width="50" />
+    <i class="fa fa-github" style="font-size:24px"></i>
 </a>
 
 ## iOS 13 and Swift 5
@@ -24,32 +20,82 @@ An iOS Udemy course taught by Dr. Angela Yu and the AppBrewery to learn programm
 fundamentals of creating iOS applications in Swift.
 
 <a href="https://github.com/josephbae96/iOS_13_and_Swift_5">
-    <img
-    src="github.svg"
-    alt="Github link to iOS 13 and Swift 5"
-    height="50"
-    width="50" />
+    <i class="fa fa-github" style="font-size:24px"></i>
 </a>
 
 ### FlashChat
 
+<img src="/files/pictures/projects/iOS13_and_Swift5/Flash-Chat.gif" alt="FlashChat" style="width:75%;text-align:center;margin: auto;">
+
 A chat based application that uses Firebase and Firestore to store/retrieve data
+
+### ByteCoin
+
+<img src="/files/pictures/projects/iOS13_and_Swift5/ByteCoin.gif" alt="ByteCoin" style="width:75%;text-align:center;margin: auto;">
+
+An data application that uses the Coin API to get the current currency exchange rate of a single BitCoin
 
 ### Clima
 
-An app that displays live weather data using the Weather API.
+<img src="/files/pictures/projects/iOS13_and_Swift5/Clima.gif" alt="Clima" style="width:75%;text-align:center;margin: auto;">
+
+A weather application that displays live data using the Weather API
+
+### Tipsy
+
+<img src="/files/pictures/projects/iOS13_and_Swift5/Tipsy.gif" alt="Tipsy" style="width:75%;text-align:center;margin: auto;">
+
+A meal calculating app that calculates percentages and amount to be split
+
+### BMI Calculator
+
+<img src="/files/pictures/projects/iOS13_and_Swift5/BMI-Calculator.gif" alt="BMI Calculator" style="width:75%;text-align:center;margin: auto;">
+
+A calculator application that specifically calculates BMI
+
+### Quizzler
+
+<img src="/files/pictures/projects/iOS13_and_Swift5/Quizzler.gif" alt="Quizzler" style="width:75%;text-align:center;margin: auto;">
+
+A game quiz application to show and organize questions and answers
+
+### EggTimer
+
+<img src="/files/pictures/projects/iOS13_and_Swift5/EggTimer.gif" alt="EggTimer" style="width:75%;text-align:center;margin: auto;">
+
+A timer application used to create the user's preferred boiled eggs
+
+### Xylophone
+
+<img src="/files/pictures/projects/iOS13_and_Swift5/Xylophone.gif" alt="Xylophone" style="width:75%;text-align:center;margin: auto;">
+
+A instrument application used to simulate a xylophone to showcase Apple libraries for sound
+
+### Calculator
+
+<img src="/files/pictures/projects/iOS13_and_Swift5/AutoTurnCalculator.gif" alt="Calculator" style="width:75%;text-align:center;margin: auto;">
+
+A calulator application that can rotate and properly showcase correct display of the button elements in both horizontal and landscape orientation
+
+### Magic 8 Ball
+
+<img src="/files/pictures/projects/iOS13_and_Swift5/Magic8Ball.gif" alt="Magic 8 Ball" style="width:75%;text-align:center;margin: auto;">
+
+A application that simulates an 8 ball and the different possible fortunes one might possibly get
+
+### Dicee
+
+<img src="/files/pictures/projects/iOS13_and_Swift5/AutoTurnDicee.gif" alt="Dicee" style="width:75%;text-align:center;margin: auto;">
+
+A dice calculating application that can be used in both horizontal and landscape orientations
 
 ## Modern React with Redux 2020 Update
 
 A Udemy course taught by Stephen Grider in order to enhance and solidify my React
 foundations.
 
-<a href="https://github.com/josephbae96/Udemy-React">
-    <img
-    src="./files/icons.github.svg"
-    alt="Github link to Modern React with Redux 2020 Update"
-    height="50"
-    width="50" />
+<a href="https://github.com/josephbae96/Modern_React_With_Redux_2020_Update">
+    <i class="fa fa-github" style="font-size:24px"></i>
 </a>
 
 ### Translate
@@ -98,8 +144,10 @@ A JavaScript application simple to refresh the project maker's memory of JavaScr
 
 ## Android
 
+<img src="/files/pictures/projects/Android/Flickster_Part2_walkthrough.gif" alt="Flickster Part 2" style="width:75%;text-align:center;margin: auto;">
 <a href="http://josephbae.me/Flickster_Part2">Week 2: Flickster Part 2</a>
 
+<img src="/files/pictures/projects/Android/Flickster_Part1_walkthrough.gif" alt="Flickster Part 1" style="width:75%;text-align:center;margin: auto;">
 <a href="http://josephbae.me/Flickster_Part1">Week 1: Flickster Part 1</a>
 
 <a href="http://josephbae.me/SimpleToDo">Week 0: Simple ToDo</a>

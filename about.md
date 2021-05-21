@@ -14,7 +14,10 @@ My name is Joseph Bae and I am software engineer with a Bachelor's of
 Science in Electrical and Computer Engineering from the University of
 Texas At Austin.
 
-I love traveling, meeting new people and spending free time with my
-three dogs.
+I love traveling, cooking, reading, playing video games,
+meeting new people and spending free time with my three dogs.
+
+Let me know what your favorite book and recipes are,
+I'd love to check them out!
 
 Thanks for reading!

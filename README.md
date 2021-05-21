@@ -1,4 +1,4 @@
-This website has been created by Joseph Bae and is for all intents and purposes used as personal portfolio website, as well as a personal blog.
+This website has been created by Joseph Bae and is for all intents and purposes used as professional portfolio website, as well as a personal food/travel blog of sorts.
 
 This website has also been created with Lanyon.
 

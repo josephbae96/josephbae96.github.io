@@ -2,7 +2,7 @@
 layout: post
 title: SimpleToDo (Android)
 ---
- 
+
 Made a Simple To Do Android Application that allows a person to create a
 list of items, remove the item, and edit the item. The application also
 saves the item list onto the phone's local memory so that if the
@@ -18,6 +18,5 @@ Potential updates to the application include:
 
 • changing the UI to be more aethestically pleasing
 
- Here's a walkthrough of the application! 
- <img src="/files/projects/Android/SimpleToDo_walkthrough.gif" alt="Flickster Part 1" style="width:75%;text-align:center;margin: auto;">
- 
+Here's a walkthrough of the application!
+<img src="/files/pictures/projects/Android/SimpleToDo_walkthrough.gif" alt="Flickster Part 1" style="width:75%;text-align:center;margin: auto;">
